@@ -1,7 +1,5 @@
 # Projeto React com Formulários Básicos
 
-Este projeto React demonstra como usar formulários básicos e exibir os dados no console.
-
 ## Descrição
 
 Este projeto consiste em um aplicativo React que:
@@ -26,12 +24,12 @@ Antes de começar, certifique-se de ter o Node.js e npm instalados em sua máqui
 
 ## Instalar dependências
 
-npm install
+`npm install`
 
 ## Rodar o aplicativo localmente
-npm start
+`npm start`
 
-Isso iniciará o servidor de desenvolvimento. Abra http://localhost:3000 no seu navegador para ver o projeto
+Isso iniciará o servidor de desenvolvimento. Abra `http://localhost:3000 no seu navegador para ver o projeto`
 
 # Funcionalidades
 - Formulários: Implementação de formulários básicos para coleta de dados.
